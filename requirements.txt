@@ -27,3 +27,5 @@ openai
 # helpers
 torchutils
 torchmetrics
+
+scipy==1.12
