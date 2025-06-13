@@ -12,6 +12,8 @@ pandas
 ipywidgets
 ipykernel
 
+gensim
+
 # text processing
 nltk
 natasha
