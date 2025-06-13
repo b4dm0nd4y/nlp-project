@@ -1,0 +1,27 @@
+# ui/ux
+streamlit
+
+# visual
+matplotlib
+seaborn
+tqdm
+
+# must haves
+numpy
+pandas
+ipywidgets
+ipykernel
+
+# text processing
+nltk
+natasha
+
+# models
+scikit-learn
+torch
+transformers
+openai
+
+# helpers
+torchutils
+torchmetrics
