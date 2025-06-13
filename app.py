@@ -20,7 +20,6 @@ import sys
 sys.path.append("./models")
 sys.path.append('./notebooks')
 sys.path.append("./src")
-from src.helper import predict_string_with_ml
 
 
 from pages.hospital import hospital_page
